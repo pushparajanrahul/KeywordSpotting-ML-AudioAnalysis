@@ -1,6 +1,6 @@
 # Mental Health Language Monitoring with Low-Power Audio Analysis Embedded System
 
-This repository contains the code and documentation for a project aimed at developing a low-power audio analysis embedded system capable of monitoring daily mental health language markers. The system focuses on detecting absolute language expressions, such as "never," "none," "all," "must," and "only," which have been identified as potential markers in mental health forums. The objective is to create a tool that performs keyword spotting through a machine learning model trained on specific keywords related to absolutist language use.
+This repository contains the code and documentation for a project aimed at developing a low-power audio analysis embedded system capable of monitoring daily mental health language markers. The system focuses on detecting absolute language expressions, such as "never," "none," "all," "must," and "only," which have been identified as potential markers in mental health forums. The objective is to create a tool that performs keyword spotting through a machine learning model trained on specific keywords related to absolutist language use. I have created a model here which identifies all these words and also the audio expression of the word "Rahul". 
 
 ## Introduction
 
