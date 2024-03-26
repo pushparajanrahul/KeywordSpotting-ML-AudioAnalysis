@@ -60,9 +60,5 @@ To train the machine learning model, run `train.py` with appropriate arguments f
 
 ## Contributions
 
-Contributions to this project are welcome. Please follow the contribution guidelines outlined in `CONTRIBUTING.md`.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+Contributions to this project are welcome.
 
